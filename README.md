@@ -1,6 +1,6 @@
-# Matador
+# L402 Demo
 
-Simplified but more customizable version of Kodylow/matador
+based on Kodylow/matador
 
 ## Deployment
 
